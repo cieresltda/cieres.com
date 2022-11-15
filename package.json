@@ -1,7 +1,6 @@
 {
   "name": "my-cieres-com",
   "version": "0.1.0",
-  "homepage": "http://cieresltda.github.io/cieres.com",
   "private": true,
   "dependencies": {
     "@types/node": "^15.14.9",
