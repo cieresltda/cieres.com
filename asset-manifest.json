@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cieres.com/static/css/main.a3c6fe37.css",
+    "main.js": "/cieres.com/static/js/main.ac864a6e.js",
+    "static/js/612.c45ca115.chunk.js": "/cieres.com/static/js/612.c45ca115.chunk.js",
+    "static/js/609.fc774ffa.chunk.js": "/cieres.com/static/js/609.fc774ffa.chunk.js",
+    "static/js/281.bf0a45a0.chunk.js": "/cieres.com/static/js/281.bf0a45a0.chunk.js",
+    "static/js/333.3cd31780.chunk.js": "/cieres.com/static/js/333.3cd31780.chunk.js",
+    "static/js/326.7b83635f.chunk.js": "/cieres.com/static/js/326.7b83635f.chunk.js",
+    "static/js/116.e95b8352.chunk.js": "/cieres.com/static/js/116.e95b8352.chunk.js",
+    "static/js/110.9482a468.chunk.js": "/cieres.com/static/js/110.9482a468.chunk.js",
+    "index.html": "/cieres.com/index.html",
+    "main.a3c6fe37.css.map": "/cieres.com/static/css/main.a3c6fe37.css.map",
+    "main.ac864a6e.js.map": "/cieres.com/static/js/main.ac864a6e.js.map",
+    "612.c45ca115.chunk.js.map": "/cieres.com/static/js/612.c45ca115.chunk.js.map",
+    "609.fc774ffa.chunk.js.map": "/cieres.com/static/js/609.fc774ffa.chunk.js.map",
+    "281.bf0a45a0.chunk.js.map": "/cieres.com/static/js/281.bf0a45a0.chunk.js.map",
+    "333.3cd31780.chunk.js.map": "/cieres.com/static/js/333.3cd31780.chunk.js.map",
+    "326.7b83635f.chunk.js.map": "/cieres.com/static/js/326.7b83635f.chunk.js.map",
+    "116.e95b8352.chunk.js.map": "/cieres.com/static/js/116.e95b8352.chunk.js.map",
+    "110.9482a468.chunk.js.map": "/cieres.com/static/js/110.9482a468.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c6fe37.css",
+    "static/js/main.ac864a6e.js"
+  ]
+}
